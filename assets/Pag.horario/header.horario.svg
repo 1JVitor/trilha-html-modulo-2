@@ -1,0 +1,59 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 909.39 113.39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #141d37;
+      }
+
+      .cls-2 {
+        fill: #538fdd;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #78ebff;
+      }
+
+      .cls-3 {
+        opacity: 0.5;
+      }
+
+      .cls-4 {
+        font-size: 30px;
+        letter-spacing: 0.03em;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: LYONCRESTRegular, LYON-CREST;
+      }
+
+      .cls-5 {
+        font-size: 100px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <title>header.horario</title>
+  <rect class="cls-1" x="-5" y="-9" width="927" height="129"/>
+  <rect class="cls-2" x="699.93" y="16.3" width="51.57" height="79.96" rx="25.78" ry="25.78" transform="translate(197.2 556.79) rotate(-47.88)"/>
+  <rect class="cls-3" x="719.36" y="15.09" width="51.57" height="79.96" rx="25.78" ry="25.78" transform="translate(1282.96 573.74) rotate(-140.26)"/>
+  <rect class="cls-2" x="9.64" y="-40.89" width="134.68" height="208.82" rx="67.34" ry="67.34" transform="translate(-21.77 78.01) rotate(-47.88)"/>
+  <rect class="cls-3" x="60.37" y="-44.06" width="134.68" height="208.82" rx="67.34" ry="67.34" transform="translate(187.34 188.4) rotate(-140.26)"/>
+  <text></text>
+  <text class="cls-4" transform="translate(789.33 30.67)">FOR</text>
+  <text class="cls-5" transform="translate(786.33 101.67)">U</text>
+  <text class="cls-4" transform="translate(112.33 67.67)">Sempre disponí<tspan class="cls-6" x="202.11" y="0">v</tspan><tspan x="216" y="0" xml:space="preserve">el  </tspan></text>
+  <line class="cls-7" x1="385.5" y1="29" x2="385.5" y2="85"/>
+</svg>
